@@ -19,4 +19,4 @@ In this repository we can see the dashboard of TCS_Stock market using Power Bi D
 * Stacked Column Charts : Used this stacked column charts to visualize Tata close and tata open / Year.
 * Clustered Bar Charts : Used this clustered bar charts to visualize Tata high by year and Tata low by year.
 
-  ![Uploading image.png…]()
+Data Set link: https://finance.yahoo.com/quote/TCS/history?fr=sycsrp_catchall
