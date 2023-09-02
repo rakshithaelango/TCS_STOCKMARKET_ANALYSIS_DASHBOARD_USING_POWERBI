@@ -21,7 +21,9 @@ In this repository we can see the dashboard of TCS_Stock market using Power Bi D
 
 ## Dashboard Visual:
 
+![1693639725455](https://github.com/rakshithaelango/TCS_Stockmarket_Analysis_Dashboard_Using_Power-Bi/assets/116090323/1211d7d0-36bc-41ab-bd34-31c1f24fcb46)
 
 
 
-Data Set link: https://finance.yahoo.com/quote/TCS/history?fr=sycsrp_catchall
+## Data Set link: 
+https://finance.yahoo.com/quote/TCS/history?fr=sycsrp_catchall
