@@ -21,7 +21,6 @@ In this repository we can see the dashboard of TCS_Stock market using Power Bi D
 
 ## Dashboard Visual:
 
-![Screenshot (316)](https://github.com/rakshithaelango/TCS_Stockmarket_Analysis_Dashboard_Using_Power-Bi/assets/116090323/ab31686c-f71c-4044-8c35-b4f879ef874c)
 
 
 
